@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "minimist": "^1.2.8",
+    "mmdb-reader": "^1.2.0",
+    "puppeteer": "^24.8.2",
+    "puppeteer-afp": "^1.1.6",
+    "puppeteer-core": "^24.8.2",
+    "puppeteer-extra": "^3.3.6",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
